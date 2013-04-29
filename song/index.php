@@ -31,7 +31,7 @@ get_header(); ?>
 
 			</div><!-- #content .site-content -->
 		</div><!-- #primary .content-area -->
-
+		<div class="navigation"><p><?php posts_nav_link(); ?></p></div>
 	</div><!-- #main .site-main -->
 
 <?php get_footer(); ?>
