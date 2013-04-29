@@ -67,7 +67,7 @@ if ( ! function_exists( 'song_posted_on' ) ) :
  * @since song 1.0
  */
 function song_posted_on() {
-	printf( __( '<time class="entry-date" datetime="%3$s">%4$s</time></a><span class="byline">', 'song' ),
+	printf( __( '<time class="entry-date" datetime="%3$s">%4$s</time><span class="byline">', 'song' ),
 		esc_url( get_permalink() ),
 		esc_attr( get_the_time() ),
 		esc_attr( get_the_date( 'c' ) ),
