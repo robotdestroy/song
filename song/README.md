@@ -24,3 +24,5 @@ The theme supports three widgets at the bottom of every page.
 
 <strong>Child Theme Modification</strong>
 Modifying this theme is discouraged if you do not consider yourself a developer. In certain cases though, it might be necessary to make alterations to the theme. If so, a child theme is provided. Hack it all you like, and you will still be able upgrade Song when new versions are released.
+
+Demonstration: http://robotdestroythemes.com
