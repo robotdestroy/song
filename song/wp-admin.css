@@ -1,0 +1,6 @@
+#customize-current-theme-link {
+	display: none !important;
+}
+.theme-options, #menu-comments {
+	display: none;
+}

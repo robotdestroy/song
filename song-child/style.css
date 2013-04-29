@@ -1,0 +1,15 @@
+/*
+Theme Name: song-child
+Theme URI: http://robotdestroythemes.com/
+Author: robotdestroy
+Author URI: http://robotdestroythemes.com/
+Description: A child theme to customize the theme song.
+Version: 1.0
+Template: song
+License: GNU General Public License
+License URI: license.txt
+Tags: responsive, minimal, writing, writer, zero-dependancy
+
+*/
+
+@import url("../song/style.css");
